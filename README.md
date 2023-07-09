@@ -7,5 +7,3 @@ groups with admin privileges and manage group membership, allowing for effective
 Modals.
 * Implemented robust user authentication features, including LogIn, SignUp, and Logout functionality, using JWT authentication.
 * **Technology Stack: MongoDB, Express, React, Node.js, React Hooks, JWT, Socket.io, Chakra-UI**
-
-# Screenshots
